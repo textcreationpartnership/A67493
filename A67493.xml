@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the nobility, clergy, and gentry of the City and County of Gloucester Abel Wantner, citizen of Gloucester ... most humbly certifieth ...</title>
+            <author>Wantner, Abel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67493</idno>
+            <idno type="STC">Wing W713</idno>
+            <idno type="STC">ESTC R24108</idno>
+            <idno type="EEBO-CITATION">07951883</idno>
+            <idno type="OCLC">ocm 07951883</idno>
+            <idno type="VID">40683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40683)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1219:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the nobility, clergy, and gentry of the City and County of Gloucester Abel Wantner, citizen of Gloucester ... most humbly certifieth ...</title>
+                  <author>Wantner, Abel.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gloucester (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:40683:1" rendition="simple:additions"/>
+            <head>To the <hi>NOBILITY, CLERGY,</hi> and <hi>GENTRY</hi> of the City and County of <hi>GLOUCESTER.</hi>
+            </head>
+            <head type="sub">
+               <hi>ABEL WANTNER</hi> Citizen of <hi>GLOUCESTER,</hi> and Inhabitant of <hi>MINCHEN-HAMPTON</hi> in the Coun<g ref="char:EOLhyphen"/>ty aforeſaid <hi>&amp;c.</hi> moſt humbly certifieth</head>
+            <p>THAT for this Twelve years paſt he hath made it his great Buſineſs and Deſign to Collect the Antiquities and other re<g ref="char:EOLhyphen"/>markable Obſervations of his Native City and County into one entire Volume; which through Gods aſſiſtance will be ready (by this next <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> Term) for the Preſs; being a large Encomiaſtick Hiſtory of the City and County of <hi>Glouceſter,</hi> in <hi>Folio.</hi>
+            </p>
+            <p>Now for the better Information and Incour<g ref="char:EOLhyphen"/>agement of all Gentlemen and others, that are willing to promote the compleating of ſo good and uſeful a work (by way of Subſcription) the Author hath here inſerted a brief abſtract of the moſt remarkable Heads therein contained, pur<g ref="char:EOLhyphen"/>poſely to ſatisfy the curioſity of many, who poſſibly otherwiſe might ſeem unwilling to Subſcribe, before they know the Subject matter on which it treateth.</p>
+            <p>Be pleaſed therefore to obſerve, That Firſt you have the Original Foundation of that once moſt ſtately Fabrick, the ancient Abby, or Mo<g ref="char:EOLhyphen"/>naſtry of <hi>Glouceſter,</hi> with its continuation till <hi>Canutus</hi> the <hi>Dane.</hi>
+            </p>
+            <p>Secondly, You have a Compendious Memo<g ref="char:EOLhyphen"/>rial of the now Cathedral Church of <hi>Glouceſter,</hi> with the Names of each Founder, and how En<g ref="char:EOLhyphen"/>dowed, with the variety of other remarkable paſſages, from <hi>Edward</hi> the Confeſſor, to King <hi>Henry</hi> the Eighth.</p>
+            <p>Thirdly, You have its Ordained conſtitution into a Biſhops See, with their preſcript Rule of Living; their yearly Stipends, and other al<g ref="char:EOLhyphen"/>lowances, the time when every Biſhop and Dean was Conſecrated, and Inſtald, to the late unhappy Wars: with ſeveral other things relating thereunto.</p>
+            <p>Fourthly, You have its particular Dimen<g ref="char:EOLhyphen"/>tions, both within and without, with an account of all Statues, Monuments, Memorials, and Coats of Arms therein contained, with the Articles (of the Chapter) of that Foundation, the ſuppoſed valuation of every Miniſter, and other mens Places belonging thereunto, by the year; with the names of every Biſhop and Dean, Arch-Deacons, Chancellors, and Pre<g ref="char:EOLhyphen"/>bends, that have been ſince His Majeſties Re<g ref="char:EOLhyphen"/>ſtauration to this preſent year, with moſt of their Coats of Arms.</p>
+            <p>Fifthly, You have the Original Denomina<g ref="char:EOLhyphen"/>tion and Building of the Village, Burrough, and City of <hi>Glouceſter,</hi> and by whom augment<g ref="char:EOLhyphen"/>ed and increaſed, trac't through the ancient <hi>Britains, Romans &amp;c.</hi> to the Second year of King <hi>Richard</hi> the Third: Begun with variety of Hiſtorical Relations, and continued with ſundry remarkable and Modern Obſervations, briefly compiled out of the moſt approved Au<g ref="char:EOLhyphen"/>thors, as well before as ſince the Conqueſt.</p>
+            <p>Sixthly, You have a particular Survey of the Strength and Fortification of the City of <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi> before its demoliſhments, with a com<g ref="char:EOLhyphen"/>pendious narrative of the River <hi>Severn.</hi>
+            </p>
+            <p>After this you have a general Survey of the whole City by way of Delineation, with the Ancient Names of every Street and Lane, the Deſcription of the demoliſhed Churches where they ſtood, and to what Pariſhes they are now annexed.</p>
+            <p>Seventhly, You have a particular deſcrip<g ref="char:EOLhyphen"/>tion of every Pariſh Church now ſtanding in the City, with an account of all Statues, Mo<g ref="char:EOLhyphen"/>numents, Memorials, or Coats of Arms there<g ref="char:EOLhyphen"/>in contained, and what Charitable Gifts are bequeathed to the Poor of every Pariſh.</p>
+            <p>Eighthly, You have an account of all Hoſ<g ref="char:EOLhyphen"/>pitals, Alms-Houſes, Free-Schools, and other Charitable Endowments within the City, with the Names of their Founders, and how many Poor people each of them entertaineth, and what yearly, or weekly Allowance any of them have; and when, and by whom moſt of the chiefeſt and eminent places in all the City were built, with many other memorable Obſerva<g ref="char:EOLhyphen"/>tions relating thereunto.</p>
+            <p>Ninthly, You have the Conſtitution of its Government, their Number and Aſſiſtants, their uſual manner of Electing and bringing home of the Mayors <hi>&amp;c.</hi> the Extention of the Mace, and many other remarkable paſſages, with an account of the Names and Coats of Arms of all thoſe Noble and Potent Princes that have been dignified with the Honorable Titles of Earls and Dukes of <hi>Glouceſter,</hi> with the Ancient and preſent Arms of the City.</p>
+            <p>And Laſtly, You have the Names of every Mayor, from its firſt being made a City, to
+<pb n="2" facs="tcp:40683:2"/>the Reſtauration of His ſacred Majeſty: and from thence to this preſent year, you have the names of every Mayor and Sheriff, with moſt of their Coats of Arms.</p>
+            <p>So much for the City.</p>
+            <div type="part">
+               <p>NOW as for the general Deſcription of the County; Firſt you have the par<g ref="char:EOLhyphen"/>ticular Diviſion thereof, according to Eccle<g ref="char:EOLhyphen"/>ſiaſtical order, branched forth into Ten Dean<g ref="char:EOLhyphen"/>aries, briefly compiled into Eight Columns: In the Firſt, you have an Alphabet of every Pariſh Church and Chappel belonging to every Deanary in the County, and to what Abby, Mo<g ref="char:EOLhyphen"/>naſtry, or other Religious Houſe it formerly be<g ref="char:EOLhyphen"/>longed.</p>
+               <p>In the Second, you have the Names of the preſent Patrons; in the Third the Names of each Miniſter, in the Fourth the ſuppoſed Valuation, in the Fifth their Tenths, in the Sixth their Procurations, in the Seventh, their Penticoſts, and in the Eighth, their Synodals.</p>
+               <p>Secondly, you have a particular diviſion of the whole County according to the common, or civil Juriſdiction, principally ſeperated into Four Diviſions, which is afterwards drawn into Thirty Hundreds, and Laſtly ſubdivided into Pariſhes, Hamlets, and Tythings; all Alpha<g ref="char:EOLhyphen"/>betically.</p>
+               <p>Thirdly, you have an Account of every Market Town, as it lyeth within its Reſpe<g ref="char:EOLhyphen"/>ctive Hundred, with it's Original Denomina<g ref="char:EOLhyphen"/>tion, how Situated, Extended and Bounded, either with Hills, Rivers, Woods or Commons; the Conſtitution of their Goverments, the An<g ref="char:EOLhyphen"/>tiquity of their Charter; Lords of the Man<g ref="char:EOLhyphen"/>nors, and the particular Trade, or Commerce on which each Town dependeth, and how far diſtant it lyeth from the next adjacent Markets.</p>
+               <p>Fourthly, you have the Deſcription of every Church belonging to each Market Town, by whom, and when, ſome of them were built, and to what Saint Dedicated; with an account of all Statues, Monuments, Memorials and Coats of Arms contained in any of them, and to what Family they belonged <hi>&amp;c.</hi>
+               </p>
+               <p>Fifthly, To the intent that the Pious and Charitable Endowments of all well diſpoſed Chriſtians, for and towards the Relief of their poor diſtreſſed brethren, may be publickly re<g ref="char:EOLhyphen"/>corded to future poſterity, I have here inſerted a Catalogue of moſt if not all the Hoſpitals, Alms-houſes, Free-Schools, and other good and commendable Gifts, bequeathed either to Church, or Poor, in any Market-Town or Vil<g ref="char:EOLhyphen"/>lage, within this County; with the names of each Donour, and how many poor People every ſuch Hoſpital or Alms-houſe doth entertain, and what weekly allowances, and other priviledges they have, and what every School-maſter and Uſher (if any) have by the Year, and by whom paid.</p>
+               <p>Sixthly, You have a particular Survey in every Hundred, of all <hi>Roman</hi> and <hi>Mercian</hi> Fortifications, <hi>Saxon</hi> Rampires, and <hi>Daniſh</hi> Camps, with the ſignification of thoſe Piles of Rubbiſh Earth, called Barrows, and what hath been found under many of them; as alſo your Checker-work Pavements, Stouphs, Numiſma<g ref="char:EOLhyphen"/>ta's, Veins of Ore, Quarries, and variety of Solid Stones, found up and down many places in this County <hi>&amp;c.</hi>
+               </p>
+               <p>Seventhly for the better preſervation of the Honor, and Antiquity of the Nobility and Gentry of this County to further Ages, I have, at the end of the Forreſt Diviſion, inſerted an Alphabet of all his Majeſties preſent Juſtices of the Peace of this County, their Seats and Coats of Arms.</p>
+               <p>Eighthly, At the end of <hi>Kiſtgate</hi> Diviſion, you have the Names, Seats, and Coats of Arms, of all the High-Sheriffs, and Knights of the Shire, that have been in this County ſince His Majeſties moſt happy Reſtauration.</p>
+               <p>Ninthly, at the end of the Seven Hundreds Diviſion, you have an account of the Names, Seats and Coats of Arms of all the Knights, Barronets, and Knights of the Bath, belonging to this County, and when moſt of them were either, Doub'd, or Created.</p>
+               <p>Tenthly for the better Illuſtration of the Work, you have at the end of <hi>Barkley</hi>'s Di<g ref="char:EOLhyphen"/>viſion, the Names, Seats, and Titles of Ho<g ref="char:EOLhyphen"/>nor appertaining to the greater Luminaries of the County <hi>viz.</hi> the Viſcounts, Barons, Lords, Earls, Marqueſſes and Dukes, gradually ranked, according to their Aſcending Qualities, with their Shields of Honor, Mantlings, Supporters, and Motto's, diſplayed by pretious Stones.</p>
+               <p>Eleventhly you have a ſmall Tract of the Military Juriſdiction, and Diſcipline of this County; to which is annexed a Liſt of all His Majeſties Commiſſioned Officers that now are, according to their ſeveral places of Command in a Regimental Order.</p>
+               <p>Twelfthly, you have an Alphabet of the pri<g ref="char:EOLhyphen"/>vate Gentlemens Names, Seats, and Coats of Arms.</p>
+               <p>And laſt of all, you have the Original Deno<g ref="char:EOLhyphen"/>mination, Situation, Enlargements, and Con<g ref="char:EOLhyphen"/>tinuation, with ſundry other remarkable Obſer<g ref="char:EOLhyphen"/>vations of the Famous City of BRISTOL, from its firſt Foundation, to the late Unhappy Wars <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>THE Subſcription Mony for, and to<g ref="char:EOLhyphen"/>wards the Compleating of this deſign, is <hi>Ten Shillings,</hi> and when the Subſcriber hath received a Book, well bound and handſomely covered, he is to pay <hi>Ten Shillings</hi> more.</p>
+               <p>The Author aſſures you that he will Print no more Books than what are Subſcribed for and thoſe ſhall be Printed on very good Letter and Paper.</p>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:40683:3" rendition="simple:additions"/>
+               <opener>
+                  <salute>My Lords and Gentlemen.</salute>
+               </opener>
+               <p>NOT willing to give the leaſt diſtaſt to any perſon whatſoever; ſome little and im<g ref="char:EOLhyphen"/>material things in my former Propoſals, I have now thought good to omit; and for your better encouragement towards the promoting of this work; (which is now according to my Propo<g ref="char:EOLhyphen"/>ſals ready for the Preſs this <hi>Michaelmas,</hi> 84.) I have here given you the Names of thoſe Ho<g ref="char:EOLhyphen"/>nourable and Worthy Gentlemen who have already Subſcribed. And whereas I gave no<g ref="char:EOLhyphen"/>tice of another ſmall Book, wherein is an Al<g ref="char:EOLhyphen"/>phabet of all the Markets and Fairs with di<g ref="char:EOLhyphen"/>rections from every Market Town to moſt places in the County not exceeding 3 Miles <hi>&amp;c.</hi> to be given <hi>gratis</hi> to each Subſcriber; theſe are to acquaint them that it ſhall be annexed to the <hi>Folio;</hi> and that the Coats of Arms of the No<g ref="char:EOLhyphen"/>blemen and Gentry ſhall be Graven in Copper Plates, and before the Book a Graven Frontiſ<g ref="char:EOLhyphen"/>piece.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>Mar. <hi>WORCESTER</hi> 2</item>
+                              <item>Biſh. <hi>GLO<g ref="char:V">Ʋ</g>CESTER</hi> 2</item>
+                              <item>Sir <hi>Rob. Yeomans</hi> K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> and Bar.</item>
+                              <item>Sir <hi>Edw. Bathurſt</hi> Baroner.</item>
+                              <item>Sir <hi>Tho. Cutler.</hi>
+                              </item>
+                              <item>Sir <hi>Rob. Atkins</hi> Ju. 2</item>
+                              <item>Sir <hi>Fran. Jernagen</hi> Bar.</item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>
+                                 <hi>Phillip Shepperd</hi> 
+                                 <abbr>Eſq</abbr>
+                              </item>
+                              <item>
+                                 <hi>Tho. Smith</hi> 
+                                 <abbr>Eſq</abbr>
+                              </item>
+                              <item>
+                                 <hi>Rob. Coderington</hi> 
+                                 <abbr>Eſq</abbr>
+                              </item>
+                              <item>
+                                 <hi>George Raymond</hi> 
+                                 <abbr>Eſq</abbr>
+                              </item>
+                              <item>
+                                 <hi>James George</hi> 
+                                 <abbr>Eſq</abbr>
+                              </item>
+                              <item>
+                                 <hi>Rob. Pleydel</hi> 
+                                 <abbr>Eſq</abbr>
+                              </item>
+                              <item>
+                                 <hi>Rowland Wood.</hi>
+                              </item>
+                              <item>
+                                 <hi>Henry Window.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Denis</hi> 
+                                 <abbr>Eſq</abbr>
+                              </item>
+                              <item>
+                                 <hi>Tho. Maſter</hi> 
+                                 <abbr>Eſq</abbr>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>
+                                 <hi>Henry Brett.</hi>
+                              </item>
+                              <item>
+                                 <hi>Charles Savage.</hi>
+                              </item>
+                              <item>
+                                 <hi>Charles Smith.</hi>
+                              </item>
+                              <item>
+                                 <hi>James Stephens.</hi>
+                              </item>
+                              <item>
+                                 <hi>Robert Sandford.</hi>
+                              </item>
+                              <item>
+                                 <hi>Joſeph Morwent.</hi>
+                              </item>
+                              <item>
+                                 <hi>James Gaſtnell.</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Hodges.</hi>
+                              </item>
+                              <item>
+                                 <hi>Walter Eaſtcourt.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Hodges.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Ferrers.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Phillips.</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Willett.</hi>
+                              </item>
+                              <item>
+                                 <hi>Juſt. Morſe.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Phillips</hi> Sen.</item>
+                              <item>
+                                 <hi>John Barksdale.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Jefferis.</hi> Jun.</item>
+                              <item>
+                                 <hi>John Driver.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Buck.</hi>
+                              </item>
+                              <item>
+                                 <hi>William King.</hi>
+                              </item>
+                              <item>
+                                 <hi>Nath. Driver.</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Oldfield.</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Stephens.</hi>
+                              </item>
+                              <item>
+                                 <hi>George Small.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Small.</hi>
+                              </item>
+                              <item>
+                                 <hi>Nath. Paul.</hi>
+                              </item>
+                              <item>
+                                 <hi>Archilas Daunte.</hi>
+                              </item>
+                              <item>
+                                 <hi>James Twyford.</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Webb.</hi>
+                              </item>
+                              <item>
+                                 <hi>Nath. Freind.</hi>
+                              </item>
+                              <item>
+                                 <hi>James Michel.</hi>
+                              </item>
+                              <item>
+                                 <hi>Miles Sandys.</hi>
+                              </item>
+                              <item>
+                                 <hi>Nathaniel Gwynn.</hi>
+                              </item>
+                              <item>
+                                 <hi>Rich. Caple.</hi>
+                              </item>
+                              <item>
+                                 <hi>Denis Huntington.</hi>
+                              </item>
+                              <item>
+                                 <hi>Edward Hill.</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Liddiard.</hi>
+                              </item>
+                              <item>
+                                 <hi>Daniel Small.</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Small</hi> Ju.</item>
+                              <item>
+                                 <hi>John Lyſons.</hi>
+                              </item>
+                              <item>
+                                 <hi>Peter Heily.</hi>
+                              </item>
+                              <item>
+                                 <hi>Joſeph Browne.</hi>
+                              </item>
+                              <item>
+                                 <hi>Joſeph Jackſon.</hi>
+                              </item>
+                              <item>
+                                 <hi>Giles Stedman.</hi>
+                              </item>
+                              <item>
+                                 <hi>Giles Eaſtcourt.</hi>
+                              </item>
+                              <item>
+                                 <hi>Henry 'Dutton.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Hooper.</hi>
+                              </item>
+                              <item>
+                                 <hi>Richard King.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Cox.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Eliſs.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
